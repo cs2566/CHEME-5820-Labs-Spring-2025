@@ -12,8 +12,8 @@ end
 # load external packages
 using Statistics
 using LinearAlgebra
-using Plots
-using Colors
+#using Plots
+#using Colors
 using Distributions
 using StatsPlots
 using PrettyTables
